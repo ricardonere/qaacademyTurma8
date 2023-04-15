@@ -14,8 +14,17 @@ public class EX6 {
         meses[9] = "Outubro";
         meses[10] = "Novembro";
         meses[11] = "Dezembro";
-
-        
-
+        System.out.println(meses[0]);
+        System.out.println(meses[1]);
+        System.out.println(meses[2]);
+        System.out.println(meses[3]);
+        System.out.println(meses[4]);
+        System.out.println(meses[5]);
+        System.out.println(meses[6]);
+        System.out.println(meses[7]);
+        System.out.println(meses[8]);
+        System.out.println(meses[9]);
+        System.out.println(meses[10]);
+        System.out.println(meses[11]);
 }
 }
